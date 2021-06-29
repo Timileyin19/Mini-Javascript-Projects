@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right bottom, #ea2c62, #120078);
+}
+
+.main {
+  background: url(./img/weather.jpg) no-repeat center;
+}
+
+.btn {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.my_btn {
+  background-color: #db6400;
+}
+
+.my_btn:hover {
+  background-color: #b05102;
+}
